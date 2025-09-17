@@ -1,4 +1,7 @@
-## Hi there 👋
+## Oi desenvolvedores!
+
+## Eu sou um desenvolvedor Junior!
+
 
 <!--
 **EikeTeodoro/EikeTeodoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
