@@ -2,7 +2,7 @@
 
 ## Eu sou um desenvolvedor Junior!
 ## Siga-me no instagram: @teodoroxssk
-
+##Tenho conhecimento sobre Java, JavaScript, Html e CSS!
 
 <!--
 **EikeTeodoro/EikeTeodoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
